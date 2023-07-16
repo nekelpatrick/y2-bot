@@ -23,6 +23,8 @@
     "shell-escape": "^0.2.0",
     "telegraf": "^4.12.2",
     "util-promisify": "^3.0.0",
+    "rimraf": "^5.0.1"
+
     
   },
   "devDependencies": {
