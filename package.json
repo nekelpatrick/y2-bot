@@ -22,7 +22,8 @@
     "open": "^9.1.0",
     "shell-escape": "^0.2.0",
     "telegraf": "^4.12.2",
-    "util-promisify": "^3.0.0"
+    "util-promisify": "^3.0.0",
+    
   },
   "devDependencies": {
     "@types/fluent-ffmpeg": "^2.1.21",
